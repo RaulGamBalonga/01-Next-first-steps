@@ -1,3 +1,11 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+    title: "Pricing Page",
+    description: "Esta es la página de precios de mi servicio",
+    keywords: ['Pricing Page','información','...'],
+};
+
 export default function PricingPage() {
     return (
         <>
