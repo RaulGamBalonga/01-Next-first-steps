@@ -1,5 +1,5 @@
 import Link from "next/link";
-import style from './AtiveLink.module.css';
+import style from './ActiveLink.module.css';
 
 interface Props {
     path: string;
