@@ -1,2 +1,4 @@
 export * from './navbar/Navbar';
-export * from './active-link/ActiveLink';
+
+//client components
+export {ActiveLink} from './active-link/ActiveLink';
