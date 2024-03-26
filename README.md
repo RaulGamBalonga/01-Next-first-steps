@@ -1,4 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Curso de React Next.js desde Cero v13 🛠️
+
+¡Bienvenido al curso de React Next.js desde cero en su versión 13! En este curso, aprenderás todo lo necesario para dominar el desarrollo web con React y Next.js, desde los conceptos básicos hasta técnicas avanzadas.
+
+## ℹ️ Acerca del Curso
+
+Este curso está diseñado para aquellos que desean aprender a desarrollar aplicaciones web modernas utilizando React y el framework Next.js en su última versión, la 13. No se requiere experiencia previa en React, pero es útil tener conocimientos básicos de HTML, CSS y JavaScript.
+
+## 📋 Requisitos Previos
+
+Antes de comenzar el curso, asegúrate de tener lo siguiente:
+- Conocimientos básicos de HTML, CSS y JavaScript.
+- Node.js instalado en tu computadora.
+- Un editor de código (recomendamos Visual Studio Code).
+
+## 🏗️ Configuración del Entorno
+
+1. Clona este repositorio en tu máquina local.
+2. Abre una terminal en el directorio del proyecto.
+3. Ejecuta `npm install` para instalar las dependencias.
+4. Ejecuta `npm run dev` para iniciar el servidor de desarrollo.
+5. Abre tu navegador y navega a `http://localhost:3000`.
+
+## 📂 Estructura del Proyecto
+
+El proyecto sigue una estructura básica de un proyecto Next.js:
 
 ## Getting Started
 
